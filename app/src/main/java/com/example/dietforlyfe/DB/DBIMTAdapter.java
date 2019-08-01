@@ -7,7 +7,6 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 import com.example.dietforlyfe.Model.ModelIMT;
-import com.example.dietforlyfe.Model.ModelKalori;
 
 import java.util.ArrayList;
 import java.util.List;

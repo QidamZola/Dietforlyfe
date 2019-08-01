@@ -24,7 +24,6 @@ import com.example.dietforlyfe.Fragment.IMTFragment;
 import com.example.dietforlyfe.Fragment.HomeFragment;
 import com.example.dietforlyfe.Fragment.KaloriFragment;
 import com.example.dietforlyfe.Fragment.InformasiFragment;
-import com.google.firebase.auth.FirebaseAuth;
 
 public class Menu extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
     private DrawerLayout drawer;

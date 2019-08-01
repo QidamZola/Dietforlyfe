@@ -6,14 +6,12 @@ package com.example.dietforlyfe.Adapter;
  * Nama     : Qidam Zola Farhan
  * Kelas    : IF-2 / AKB-2
  */
-import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.dietforlyfe.Model.ModelIMT;
 import com.example.dietforlyfe.Model.ModelKalori;
 import com.example.dietforlyfe.R;
 
