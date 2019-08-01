@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "817407463342",
+    "firebase_url": "https://dietforlyfe.firebaseio.com",
+    "project_id": "dietforlyfe",
+    "storage_bucket": "dietforlyfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817407463342:android:8140a7f28a29d2a3",
+        "android_client_info": {
+          "package_name": "com.example.dietforlyfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817407463342-fc83c13teqvrik2mda2pvjavarn1q5os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dietforlyfe",
+            "certificate_hash": "214023c2ff03e5b7df59cf4741e4aba10699e101"
+          }
+        },
+        {
+          "client_id": "817407463342-p3927r4lfr5mgg7emok1a2s73t0s5q7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlb8-A0wsCLIUne_2wRG5ESaIqe0tKtFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817407463342-p3927r4lfr5mgg7emok1a2s73t0s5q7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

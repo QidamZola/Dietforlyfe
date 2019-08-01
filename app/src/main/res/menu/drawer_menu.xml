@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_daily"
+            android:icon="@drawable/ic_daily"
+            android:title="Aktifitas" />
+        <item
+            android:id="@+id/nav_imt"
+            android:icon="@drawable/ic_imt"
+            android:title="Index Masa Tubuh" />
+        <item
+            android:id="@+id/nav_kalori"
+            android:icon="@drawable/ic_kalori"
+            android:title="Kebutuhan Kalori" />
+        <item
+            android:id="@+id/nav_informasi"
+            android:icon="@drawable/ic_profile"
+            android:title="Infomasi Kesehatan" />
+    </group>
+
+    <item android:title="Communicate">
+
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_about"
+                android:title="About" />
+        </menu>
+    </item>
+</menu>
